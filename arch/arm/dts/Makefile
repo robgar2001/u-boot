@@ -254,6 +254,7 @@ dtb-$(CONFIG_ARCH_ZYNQ) += \
 	zynq-zybo.dtb \
 	zynq-zybo-z7.dtb \
 	zynq-adrv9361.dtb \
+	zynq-adrv9364.dtb \
 	zynq-antsdre200.dtb \
 	zynq-antsdre310.dtb \
 	zynq-antsdre310v2.dtb
