@@ -253,7 +253,10 @@ dtb-$(CONFIG_ARCH_ZYNQ) += \
 	zynq-zturn-v5.dtb \
 	zynq-zybo.dtb \
 	zynq-zybo-z7.dtb \
-	zynq-adrv9361.dtb
+	zynq-adrv9361.dtb \
+	zynq-antsdre200.dtb \
+	zynq-antsdre310.dtb \
+	zynq-antsdre310v2.dtb
 dtb-$(CONFIG_ARCH_ZYNQMP) += \
 	avnet-ultra96-rev1.dtb			\
 	zynqmp-a2197-revA.dtb			\
