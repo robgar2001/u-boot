@@ -25,7 +25,7 @@
 *
 *****************************************************************************/
 
-#include "ps7_init_gpl.h"
+#include <asm/arch/ps7_init_gpl.h>
 
 unsigned long ps7_pll_init_data_3_0[] = {
     // START: top
